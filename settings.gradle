@@ -1,0 +1,3 @@
+rootProject.name = 'sell-spot'
+
+include 'api_gateway', 'config_server', 'eureka_server', 'user_service'
