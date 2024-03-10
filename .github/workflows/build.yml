@@ -31,7 +31,13 @@ jobs:
           key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle') }}
           restore-keys: ${{ runner.os }}-gradle
       - name: Grant execute permissions to Gradle wrapper
-        run: chmod +x ./gradlew
+        run: chmod +x ./config_server/gradlew
+      - name: Grant execute permissions to Gradle wrapper
+        run: chmod +x ./api_gateway/gradlew
+      - name: Grant execute permissions to Gradle wrapper
+        run: chmod +x ./eureka_server/gradlew
+      - name: Grant execute permissions to Gradle wrapper
+        run: chmod +x ./user_service/gradlew
       - name: Build and analyze
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
