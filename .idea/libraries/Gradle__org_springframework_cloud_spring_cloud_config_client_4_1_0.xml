@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-config-client:4.1.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.springframework.cloud" artifactId="spring-cloud-config-client" version="4.1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../software/gradle-8.6/bin/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-config-client/4.1.0/8cd0713ef875da182193399640c01a126133befc/spring-cloud-config-client-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

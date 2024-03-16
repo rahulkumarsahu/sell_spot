@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="api_gateway" target="17" />
+      <module name="api_gateway.main" target="17" />
+      <module name="api_gateway.test" target="17" />
+      <module name="config_server" target="17" />
+      <module name="config_server.main" target="17" />
+      <module name="config_server.test" target="17" />
+      <module name="eureka_server" target="17" />
+      <module name="eureka_server.main" target="17" />
+      <module name="eureka_server.test" target="17" />
+      <module name="sell-spot.api_gateway" target="17" />
+      <module name="sell-spot.api_gateway.main" target="17" />
+      <module name="sell-spot.api_gateway.test" target="17" />
+      <module name="sell-spot.config_server" target="17" />
+      <module name="sell-spot.config_server.main" target="17" />
+      <module name="sell-spot.config_server.test" target="17" />
+      <module name="sell-spot.eureka_server" target="17" />
+      <module name="sell-spot.eureka_server.main" target="17" />
+      <module name="sell-spot.eureka_server.test" target="17" />
+      <module name="sell-spot.user_service" target="17" />
+      <module name="sell-spot.user_service.main" target="17" />
+      <module name="sell-spot.user_service.test" target="17" />
+      <module name="user_service" target="17" />
+      <module name="user_service.main" target="17" />
+      <module name="user_service.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

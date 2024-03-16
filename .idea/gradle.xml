@@ -4,15 +4,24 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../software/gradle-8.6" />
+        <option name="gradleJvm" value="17" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/api_gateway" />
+            <option value="$PROJECT_DIR$/config_server" />
+            <option value="$PROJECT_DIR$/eureka_server" />
+            <option value="$PROJECT_DIR$/user_service" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/api_gateway" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../software/gradle-8.6" />
         <option name="gradleJvm" value="17" />
         <option name="modules">
           <set>
@@ -21,7 +30,9 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/config_server" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../software/gradle-8.6" />
         <option name="gradleJvm" value="17" />
         <option name="modules">
           <set>
@@ -30,7 +41,9 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/eureka_server" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../software/gradle-8.6" />
         <option name="gradleJvm" value="17" />
         <option name="modules">
           <set>
@@ -39,7 +52,9 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/user_service" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../software/gradle-8.6" />
         <option name="gradleJvm" value="17" />
         <option name="modules">
           <set>

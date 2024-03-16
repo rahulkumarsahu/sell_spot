@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.sshd:sshd-sftp:2.10.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.sshd" artifactId="sshd-sftp" version="2.10.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../software/gradle-8.6/bin/caches/modules-2/files-2.1/org.apache.sshd/sshd-sftp/2.10.0/88707339ac0693d48df0ec1bafb84c78d792ed08/sshd-sftp-2.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

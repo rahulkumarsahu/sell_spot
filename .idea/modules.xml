@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/sell_spot.iml" filepath="$PROJECT_DIR$/.idea/sell_spot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api_gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/api_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api_gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api_gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api_gateway.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api_gateway.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config_server.iml" filepath="$PROJECT_DIR$/.idea/modules/config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config_server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/config_server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config_server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/config_server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka_server.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka_server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka_server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka_server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka_server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sell-spot.iml" filepath="$PROJECT_DIR$/.idea/modules/sell-spot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api_gateway/sell-spot.api_gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/api_gateway/sell-spot.api_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api_gateway/sell-spot.api_gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api_gateway/sell-spot.api_gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api_gateway/sell-spot.api_gateway.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api_gateway/sell-spot.api_gateway.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config_server/sell-spot.config_server.iml" filepath="$PROJECT_DIR$/.idea/modules/config_server/sell-spot.config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config_server/sell-spot.config_server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/config_server/sell-spot.config_server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config_server/sell-spot.config_server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/config_server/sell-spot.config_server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka_server/sell-spot.eureka_server.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka_server/sell-spot.eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka_server/sell-spot.eureka_server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka_server/sell-spot.eureka_server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka_server/sell-spot.eureka_server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka_server/sell-spot.eureka_server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user_service/sell-spot.user_service.iml" filepath="$PROJECT_DIR$/.idea/modules/user_service/sell-spot.user_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user_service/sell-spot.user_service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/user_service/sell-spot.user_service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user_service/sell-spot.user_service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/user_service/sell-spot.user_service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user_service.iml" filepath="$PROJECT_DIR$/.idea/modules/user_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user_service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/user_service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user_service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/user_service.test.iml" />
     </modules>
   </component>
 </project>

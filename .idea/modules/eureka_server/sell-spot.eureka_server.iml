@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":eureka_server" external.linked.project.path="$MODULE_DIR$/../../../eureka_server" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.sell_spot" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../eureka_server">
+      <excludeFolder url="file://$MODULE_DIR$/../../../eureka_server/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../eureka_server/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="47bc887f-4fbe-4347-b4fa-7ef485f38e5e" />
+  </component>
+</module>

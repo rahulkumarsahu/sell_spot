@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.zipkin.zipkin2:zipkin:2.23.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.zipkin.zipkin2" artifactId="zipkin" version="2.23.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../software/gradle-8.6/bin/caches/modules-2/files-2.1/io.zipkin.zipkin2/zipkin/2.23.2/1c2c7f2e91a3749311f7f75d0535d14ba2e2f6/zipkin-2.23.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
